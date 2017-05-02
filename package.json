@@ -1,0 +1,27 @@
+{
+  "name": "embed-code-file-helper",
+  "version": "1.0.0",
+  "description": "Handlebars helper for embedding encoded files. For emaple when using a living styleguide. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendbeast/embed-code-file-helper.git"
+  },
+  "keywords": [
+    "handlebars",
+    "assemble"
+  ],
+  "author": "Darren Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frontendbeast/embed-code-file-helper/issues"
+  },
+  "homepage": "https://github.com/frontendbeast/embed-code-file-helper#readme",
+  "dependencies": {
+    "define-property": "^1.0.0",
+    "for-in": "^1.0.2"
+  }
+}
